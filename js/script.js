@@ -1,3 +1,6 @@
+// STEP 1
+// STEP 2
+// STEP 3
 
 //1. Convert the following highlighted identifiers to Camel Case notation:
 //let someMonth
